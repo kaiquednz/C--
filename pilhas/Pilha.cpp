@@ -16,7 +16,7 @@ using namespace std;
 
 // Construtor: Inicializa a pilha, alocando memória dinamicamente.
 Pilha::Pilha(int capacidade) {
-    // 1. Armazena a capacidade mácima definida pelo usuário.
+    // 1. Armazena a capacidade máxima definida pelo usuário.
     capacidade_ = capacidade;
 
     // 2. Aloca um array de inteiros (dados) na memória dinâmica (heap).
