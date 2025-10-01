@@ -17,7 +17,6 @@ class Pilha{
     int *dados; //array dinâmico que armazena os elementos
     int topo; // índice do topo -1 quando vazia
     int capacidade_; // capacidade da pilha
-
 };
 
 
